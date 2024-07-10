@@ -8,8 +8,8 @@
  :#%%%%%%%%#%%######**+===+-:::-===+**#+##%%%%%%=. Education.MS: Indiana University Bloomington, Computer Science
  :%%%%%%%%%%%##%#*++=-::=:.   .:-:::+##**##%%%%*:  Education.BTech: B.V. Raju Institute, Computer Science Engineering
  -%%%%%%%%######*+=:..  ..:+***+=--=-:+#**##%@@#:  ------------------
-.+#%%%%%##=-:--==++=-:..:--.....     .::##*###%#:  Experience.Technovert: Full Stack Developer, Hyderabad, 2021-2022
- :%%%%@+-=::-:.:----..   .:---==-. .   :.#**###*:  Experience.CyberMedha: Software Developer, Hyderabad, 2020-2020
+.+#%%%%%##=-:--==++=-:..:--.....     .::##*###%#:  Experience.Technovert: Full Stack Developer
+ :%%%%@+-=::-:.:----..   .:---==-. .   :.#**###*:  Experience.CyberMedha: Software Developer
  .#%%%#:-*-==-++---::.     .::::.       .:#*%##*-  ------------------
   +%%%+-:-:.::::..:::      .              =*#*=:-. Skills.Languages: Python, Java, C, C#, TypeScript
   .-#%+-:  ........                       :*-  .:. Skills.WebDev: AngularJS, React, HTML, CSS, JavaScript
