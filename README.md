@@ -1,6 +1,6 @@
 ````
             .:=+***++++******++++++=-.             Ankith Cirgir
-         .=**#********#####*#####***++++-..                   
+         .=**#********#####*#####***++++-..        Web Application Developer @ MMC           
       .-*#******#**#******###%%###***********-     ------------------
     .+#%####*#**###**####*+****###############*:   Contact.Email: ancirgir@gmail.com
    =#%%###*######******#####****######%%@%%%%%#+.  Contact.LinkedIn: https://www.linkedin.com/in/ankith-cirgir-85b5a3192/
@@ -8,8 +8,8 @@
  :#%%%%%%%%#%%######**+===+-:::-===+**#+##%%%%%%=. Education.MS: Indiana University Bloomington, Computer Science
  :%%%%%%%%%%%##%#*++=-::=:.   .:-:::+##**##%%%%*:  Education.BTech: B.V. Raju Institute, Computer Science Engineering
  -%%%%%%%%######*+=:..  ..:+***+=--=-:+#**##%@@#:  ------------------
-.+#%%%%%##=-:--==++=-:..:--.....     .::##*###%#:  Experience.Technovert: Full Stack Developer
- :%%%%@+-=::-:.:----..   .:---==-. .   :.#**###*:  Experience.CyberMedha: Software Developer
+.+#%%%%%##=-:--==++=-:..:--.....     .::##*###%#:  Experience.Meharry: Web Application Developer
+ :%%%%@+-=::-:.:----..   .:---==-. .   :.#**###*:  Experience.Technovert: Full Stack Developer
  .#%%%#:-*-==-++---::.     .::::.       .:#*%##*-  ------------------
   +%%%+-:-:.::::..:::      .              =*#*=:-. Skills.Languages: Python, Java, C, C#, TypeScript
   .-#%+-:  ........                       :*-  .:. Skills.WebDev: AngularJS, React, HTML, CSS, JavaScript, Spring
